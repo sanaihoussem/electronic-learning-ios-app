@@ -1,0 +1,13 @@
+
+{
+    "quiz": [
+             [
+              {"question": "Dans un circuit RC série 20 Vac, si 20 V sont mesurés aux bornes de la résistance et que 40 V sont mesurés aux bornes du condensateur, la tension appliquée est:",
+              "answers": ["45 V", "50 V", "55 V", "60 V"],
+              "correct": 1},
+              {"question": "Quelle est la valeur thêta de l'angle pour un condensateur de 5,6 microF et une résistance de 50 ohms en série avec une source de 1,1 kHz, 5 Vac?",
+              "answers": ["27,3 degrés", "62.7 degrés", "–27.3 degrés", "–62.7 degrés"], "correct": 3},
+              {"question": "Après quelle durée peut-on considérer qu'un condensateur est complètement chargé?", "answers": ["Premier", "Troisième", "Cinquième", "Septième"], "correct": 2}
+              ]
+             ]
+}

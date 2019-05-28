@@ -1,0 +1,6 @@
+framework module Pods_ElectroProject {
+  umbrella header "Pods-ElectroProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

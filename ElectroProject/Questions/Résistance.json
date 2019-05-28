@@ -1,0 +1,42 @@
+
+
+{
+    "quiz": [
+             [
+              
+              {"question": "Si la résistance dans un circuit à tension constante augmente, le courant",
+              "answers":
+              ["augmente",
+               "diminue",
+               "reste le même",
+               "Pas suffisamment d'informations"],
+              "correct": 2},
+              
+              {"question": "Si doubler la tension à travers une résistance double le courant à travers la résistance, puis",
+              "answers":
+              ["Il augmente d'un facteur cinq",
+               "Il diminue d'un facteur cinq",
+               "Il reste le même",
+               "Pas suffisamment d'informations"],
+              "correct": 2},
+              
+   
+              
+              {"question": "Quelle est la consommation en kilowattheure d'une lampe de 40 W si elle reste allumée pendant 1750 h?",
+              "answers":
+              ["43.75",
+               "70",
+               "43,750",
+               "70,000"],
+              "correct": 2},
+              
+              {"question": "Une résistance endommagée",
+              "answers":
+              ["peut apparaître brûlé",
+               "peut avoir une valeur de résistance accrue",
+               "peut être vérifié avec un ohmmètre",
+               "Tout ce qui précède"],
+              "correct": 4}
+              ]
+             ]
+}
